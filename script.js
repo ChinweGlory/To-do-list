@@ -7,4 +7,7 @@ function addTask() {
     if(inputBox.value === '') {
         alert ("write something");
     }
+    else {
+        
+    }
 }
