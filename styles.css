@@ -92,3 +92,18 @@ ul li.checked {
 ul li.checked::before {
     background-image: url(png-clipart-green-check-illustration-check-mark-computer-icons-ok-symbol-miscellaneous-angle-thumbnail.png);
 }
+
+ul li span {
+    position: absolute;
+    right: 0;
+    top: 5px;
+    width: 40px;
+    height: 40px;
+    font-size: 22px;
+    color: brown;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+u
