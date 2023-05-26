@@ -74,13 +74,13 @@ ul li {
 ul li::before {
     content: '';
     position: absolute;
-    height: 28px;
-    width: 28px;
+    height: 20px;
+    width: 23px;
     background-image: url(radio\ button.png);
     background-color: 50%;
     background-size: cover;
     background-position: center;
-    top: 12px;
+    top: 10px;
     left: 8px;
 }
 
