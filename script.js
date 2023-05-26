@@ -9,5 +9,5 @@ function addTask(){
         li.innerHTML = inputBox.value;
         listContainer.appendChild(li);
     }
-    
+    inputBox.value = "";
 }
