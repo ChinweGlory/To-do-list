@@ -85,3 +85,7 @@ ul li.checked {
     color: brown;
     text-decoration: line-through;
 }
+
+ul li.checked::before {
+    background-image: url(png-clipart-green-check-illustration-check-mark-computer-icons-ok-symbol-miscellaneous-angle-thumbnail.png);
+}
